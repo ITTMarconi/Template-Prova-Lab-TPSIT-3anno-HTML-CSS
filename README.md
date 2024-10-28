@@ -9,9 +9,10 @@ sito web illustrato
 Indicazioni per lo svolgimento:
 
 -   Usare i tag semantici in modo appropriato
--   Il testo e le foto si trovano a questo indirizzo:
+-   Il testo e le foto provengono da questo indirizzo:
     [https://www.marconirovereto.it/MarconiLabs/] e
     andando a cercare i simboli <img src="docs/image1.png" width="24">
+    sono anche riportati [qui](docs/TESTI.md) 
 -   Non cercate di copiarne la struttura perché non è la stessa;
 -   In caso di copiature (a mio insindacabile giudizio) il voto sarà gravemente insufficiente per tutti quelli coinvolti;
 -   Non è possibile comunicare con i compagni in nessun modo e per nessun motivo.
